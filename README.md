@@ -11,7 +11,7 @@ Medical image segmentation models often degrade on unseen domains because of dif
 ## 🚀 Environment Setup
 ```bash
 # Example setup commands
-conda create -n c2sfa python=3.9
+conda create -n c2sfa python=3.10
 conda activate c2sfa
 pip install torch torchvision
 pip install -r requirements.txt

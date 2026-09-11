@@ -1,7 +1,7 @@
 # C<sup>2</sup>SFA: Confidence- and Curvature-Guided Spline Feature Augmentation
 
 This repository contains the official PyTorch implementation of the paper:
-**"C<sup>2</sup>SFA: Confidence- and Curvature-Guided Spline Feature Augmentation for Single-Source Domain Generalization in Medical Image Segmentation"** (Currently Under Review).
+**"C<sup>2</sup>SFA: Confidence- and Curvature-Guided Spline Feature Augmentation for Single-Source Domain Generalization in Medical Image Segmentation"** .
 
 ## 📝 Abstract
 Medical image segmentation models often degrade on unseen domains because of differences in imaging modalities, acquisition protocols, and sequences. This work proposes **C<sup>2</sup>SFA**, a framework that jointly expands source variations in image and feature spaces:
